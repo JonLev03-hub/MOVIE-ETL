@@ -5,7 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
+#resources that are too large
+wikipedia-movies.json
 
+#config
+config.py
 # Distribution / packaging
 .Python
 build/
