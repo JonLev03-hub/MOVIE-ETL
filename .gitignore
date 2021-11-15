@@ -7,6 +7,8 @@ __pycache__/
 *.so
 #resources that are too large
 wikipedia-movies.json
+movies_metadata.csv
+ratings.csv
 
 #config
 config.py
